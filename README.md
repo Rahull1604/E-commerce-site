@@ -1,3 +1,5 @@
+Here’s the updated README file format with your specific details:
+
 # LUXE: Redefining Luxury Clothing Delivery
 
 Welcome to **LUXE**, an exclusive luxury fashion e-commerce platform, built using **HTML**, **CSS**, **JavaScript**, **React.js**, **Node.js**, and **SQL**. Our mission is to provide a seamless and elegant shopping experience for high-end clothing and accessories across India.
@@ -28,7 +30,7 @@ We are constantly innovating and expanding our logistics network to reach even t
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/luxe-ecommerce.git
+   git clone https://github.com/Rahull1604/E-commerce-site.git
    ```
 
 2. **Install Dependencies**:
